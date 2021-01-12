@@ -1,0 +1,16 @@
+PODS:
+  - CommonTools (0.1.0)
+
+DEPENDENCIES:
+  - CommonTools (from `../`)
+
+EXTERNAL SOURCES:
+  CommonTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CommonTools: 7c0a50edea8cd976581d564f1183f8a3e2500a38
+
+PODFILE CHECKSUM: 69da380c2dfa2013d7247fd1a752b1f07c23d888
+
+COCOAPODS: 1.8.4
